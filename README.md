@@ -15,8 +15,6 @@ Special shout out to [@heunetik's](https://github.com/heunetik) MAX7219 node lib
 
 Long live skateboarding, long live web3.
 #
-<iframe width="560" height="315" src="https://www.youtube.com/embed/967XFR-rHms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-https://user-images.githubusercontent.com/83735115/150617988-fd5e883d-f0b9-4c7c-b980-b8b2f16db703.mp4
+https://user-images.githubusercontent.com/83735115/150618017-54ca3c5a-b749-41b4-ba89-c76bce076c57.mp4
 

@@ -6,7 +6,7 @@ Meet Blockchain Board!
 
 Blockchain board is an unofficial collaboration between [@wockchain](twitter.com/wockchain) x [@303boards](https://www.instagram.com/303boards/).
 
-The board used for this project is named "The American Dream". I thought this was perfect for a piece combining two incredibly liberating things (crypto and skateboarding).
+The board used for this project is called "The American Dream". I thought this was perfect deck choice for a piece combining two incredibly liberating things (crypto and skateboarding).
 
 The program itself is quite simple. Utilizing a Raspberry Pi 4 and a MAX7219 4x4 LED screen, the program polls the CoinGecko API in Node.js to display live crypto pricing on the screen.
 

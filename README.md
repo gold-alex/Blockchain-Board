@@ -4,7 +4,7 @@ Being a lifelong skateboarder and a crypto advocate since the Mt. Gox era, I wan
 
 Meet Blockchain Board!
 
-Blockchain board is an unofficial collaboration between [@wockchain](twitter.com/wockchain) x [@303boards](https://www.instagram.com/303boards/).
+Blockchain board is an unofficial collaboration between [@wockchain](https://www.twitter.com/wockchain) x [@303boards](https://www.instagram.com/303boards/).
 
 The board used for this project is called "The American Dream". I thought this was perfect deck choice for a piece combining two incredibly liberating things (crypto and skateboarding).
 
